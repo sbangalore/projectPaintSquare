@@ -43,11 +43,11 @@ function randomColor() {
     })
 }
 
-function opacity() {
+/*function opacity() {
     $('.unit').hover(function(){
         var temp = $(this).css('opacity');
         if (temp > 0){
             $(this).css('opacity', temp - 0.1);
         }
     });
-}
+}*/
