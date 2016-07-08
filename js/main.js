@@ -7,7 +7,7 @@ function startSquare(){
     var width = prompt("# squares? ");
     for (var x = 0; x < width; x += 1) {
         for (var y = 0; y < width; y += 1) {
-            var unit = $("<div class='unit' onclick='changeColor()'></div>");
+            var unit = $("<div class='unit'></div>");
             unit.appendTo("#container");
         }
     }
