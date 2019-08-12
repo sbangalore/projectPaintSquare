@@ -1,3 +1,3 @@
 # projectPaintSquare
-## http://www.theodinproject.com/web-development-101/javascript-and-jquery?ref=lnav
+## A simple game created as part of the Odin Project.
 ![The game](https://github.com/sbangalore/projectPaintSquare/blob/master/image.PNG?raw=true)
